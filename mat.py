@@ -74,3 +74,5 @@
 #             # A correct loop approach is too complex, so just output the roots once found.
 #             # We can break the loops since we only need one pair of (i, j)
 #             # return
+value = ["one", "two", "three", "four", "five", "six"]
+print(value[1])
